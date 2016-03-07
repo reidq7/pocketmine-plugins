@@ -16,12 +16,12 @@ use pocketmine\Player;
 
 //use pocketmine\tile\Chest;
 //use pocketmine\block\Block;
-//use pocketmine\nbt\tag\Compound;
-//use pocketmine\nbt\tag\Byte;
-//use pocketmine\nbt\tag\Enum;
-//use pocketmine\nbt\tag\String;
-//use pocketmine\nbt\tag\Float;
-//use pocketmine\nbt\tag\Int;
+//use pocketmine\nbt\tag\CompoundTag;
+//use pocketmine\nbt\tag\ByteTag;
+//use pocketmine\nbt\tag\ListTag;
+//use pocketmine\nbt\tag\StringTag;
+//use pocketmine\nbt\tag\FloatTag;
+//use pocketmine\nbt\tag\IntTag;
 //use pocketmine\event\player\PlayerQuitEvent;
 //use pocketmine\inventory\PlayerInventory;
 //use pocketmine\inventory\ChestInventory;
